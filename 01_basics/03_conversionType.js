@@ -32,6 +32,52 @@ console.log(typeof stringNumber);
 
 
 
+// **********  Operations ********************
+
+let num = 4;
+let negativeNum = -num;
+console.log(negativeNum);
+
+// console.log(2+2); add 
+// console.log(2-2);  minus
+// console.log(2*2);  multiply
+// console.log(2/2); divide
+// console.log(2**3); power
+// console.log(2%2); remainder
+
+let str1 = "hello"
+let str2 = "Harish";
+
+let str3 = str1 + str2;
+
+// console.log(str3);
+
+console.log(1 + "2");
+console.log("1" + 2);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+console.log(+true);
+console.log(+"");
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 200;
+gameCounter++;
+console.log(gameCounter);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
